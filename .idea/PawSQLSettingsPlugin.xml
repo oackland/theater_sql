@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.pawsql.plugin.SettingState">
+    <option name="activateCode" value="9116-4E4A-BB1E-D43D" />
+    <option name="dbHost" value="96.73.17.121" />
+    <option name="dbPort" value="5432" />
+    <option name="dbType" value="1" />
+    <option name="defaultDB" value="postgres" />
+    <option name="passwd" value="mypgdbpass" />
+    <option name="schemaList" value="customer" />
+    <option name="user" value="postgres" />
+    <option name="userId" value="service@pawsql.com" />
+  </component>
+</project>
